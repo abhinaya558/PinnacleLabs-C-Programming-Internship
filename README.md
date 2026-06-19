@@ -2,9 +2,6 @@
 
 Name: Abhinaya Bongani
 
-# Pinnacle Labs C Programming Internship
-
-Name: Abhinaya Bongani
 
 Projects Completed:
 
